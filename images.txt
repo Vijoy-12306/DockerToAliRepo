@@ -9,4 +9,5 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #jenkins/jenkins:lts
-minio/minio
+#minio/minio
+nacos/nacos-server:latest
