@@ -10,4 +10,5 @@
 #cr2.fit2cloud.com/1panel/maxkb
 #jenkins/jenkins:lts
 #minio/minio
-nacos/nacos-server:latest
+#nacos/nacos-server:latest
+xuxueli/xxl-job-admin:2.4.0
