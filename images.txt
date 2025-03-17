@@ -13,4 +13,5 @@
 #nacos/nacos-server:latest
 #xuxueli/xxl-job-admin:2.4.0
 #nginx:latest
+#joedwards32/cs2:latest
 joedwards32/cs2:latest
