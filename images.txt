@@ -15,4 +15,5 @@
 #nginx:latest
 #joedwards32/cs2:latest
 #mysql:8.3.0
-ghcr.io/kus/cs2-modded-server:latest
+#ghcr.io/kus/cs2-modded-server:latest
+node:18-alpine
