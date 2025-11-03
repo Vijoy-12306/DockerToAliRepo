@@ -28,3 +28,4 @@ nsqio/nsq:v1.2.1
 alpine/curl:8.12.1
 arigaio/atlas:0.35.0-community-alpine
 opencoze/opencoze:latest
+nacos/nacos-server:v2.1.1
