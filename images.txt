@@ -19,4 +19,4 @@
 #node:18-alpine
 #nacos/nacos-server:v2.1.1
 #minio/minio
-quay.io/minio/aistor/minio:latest
+minio/minio:RELEASE.2024-12-18T13-15-44Z
