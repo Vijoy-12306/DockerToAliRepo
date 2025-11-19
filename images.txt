@@ -17,4 +17,5 @@
 #mysql:8.3.0
 #ghcr.io/kus/cs2-modded-server:latest
 #node:18-alpine
-nacos/nacos-server:v2.1.1
+#nacos/nacos-server:v2.1.1
+minio/minio
